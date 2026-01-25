@@ -1,5 +1,19 @@
 [
     {
+        "id": "learn-ai",
+        "title": "Learn AI",
+        "category": "Educational Website",
+        "description": "Interactive learning platform for AI concepts. Features hands-on explorations of LLMs, tokenization, attention mechanisms, and prompting strategies with beautiful visualizations.",
+        "picture": "images/LearnAI",
+        "link": "https://learn.logge.top",
+        "tags": [
+            "nextjs",
+            "react",
+            "typescript",
+            "ai-education"
+        ]
+    },
+    {
         "id": "coop-sudoku",
         "title": "Coop Sudoku",
         "category": "Game Website",
