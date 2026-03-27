@@ -1,5 +1,41 @@
 [
     {
+        "id": "kniffel",
+        "title": "Kniffel Multiplayer",
+        "category": "Multiplayer Game",
+        "description": "Classic Kniffel (Yahtzee) for 1-6 players with real-time multiplayer, dark mode, emoji reactions and live leaderboard.",
+        "picture": "images/Kniffel",
+        "link": "https://kniffel.logge.top",
+        "tags": ["game", "multiplayer", "websocket", "nextjs"]
+    },
+    {
+        "id": "geo-game",
+        "title": "Geo Game",
+        "category": "Geography Game",
+        "description": "4 geography mini-games: DropZone, GeoWordle, FlagFusion and BorderBlitz. Test your world knowledge.",
+        "picture": "images/GeoGame",
+        "link": "https://geo.logge.top",
+        "tags": ["game", "geography", "education", "vanilla-js"]
+    },
+    {
+        "id": "marathon-trainer",
+        "title": "Marathon Trainer",
+        "category": "Sports App",
+        "description": "AI-powered marathon training dashboard with Strava sync, auto-adapting plan and race-day countdown.",
+        "picture": "images/MarathonTrainer",
+        "link": "https://marathon.logge.top",
+        "tags": ["nextjs", "strava", "sqlite", "ai"]
+    },
+    {
+        "id": "transcripator",
+        "title": "Transcripator",
+        "category": "AI Tool",
+        "description": "Upload any audio or video file and get an AI-generated transcript, improved text and smart summary in seconds.",
+        "picture": "images/Transcripator",
+        "link": "https://transcripator.logge.top",
+        "tags": ["ai", "transcription", "gemini", "nextjs"]
+    },
+    {
         "id": "learn-ai",
         "title": "Learn AI",
         "category": "Educational Website",
